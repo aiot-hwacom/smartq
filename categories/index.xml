@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SmartQ - 設備監視維護</title>
+    <link>https://aiot-hwacom.github.io/smartq/categories/</link>
+    <description>Recent content in Categories on SmartQ - 設備監視維護</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aiot-hwacom.github.io/smartq/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

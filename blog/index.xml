@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on SmartQ - 設備監視維護</title>
+    <link>https://aiot-hwacom.github.io/smartq/blog/</link>
+    <description>Recent content in Blog on SmartQ - 設備監視維護</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2020 15:12:57 +0800</lastBuildDate>
+    
+	<atom:link href="https://aiot-hwacom.github.io/smartq/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IoT 設備管理與監視</title>
+      <link>https://aiot-hwacom.github.io/smartq/blog/equipment-management/</link>
+      <pubDate>Thu, 16 Jul 2020 15:12:57 +0800</pubDate>
+      
+      <guid>https://aiot-hwacom.github.io/smartq/blog/equipment-management/</guid>
+      <description>匯入 WISE-PaaS/APM 設備 使用者可以將已存在 WISE-PaaS/APM 中的設備結構及設備同步至 SmartQ 中。使用者在 WISE-PaaS/APM 中定義好設備階層架構與節點後，就可以進行自動同步或依需求進行手動同步。
+ 目前 SmartQ 僅支援同步 WISE-PaaS/APM 的設備結構
+  以設備結構檢視設備 在 SmartQ 中設備可以使用設備結構做管理，使用者可以切換不同設備結構，以不同觀點檢視設備所屬的節點，讓使用者更快找到所要操作的設備。
+ 檢視設備狀態資訊 SmartQ 會定期向 WISE-PaaS/APM 取得代表設備狀態的 Metrics 值，該值用以代表設備的狀態(正常/異常)。 使用者就可以透過設備列表觀察到設備狀態，並對設備狀態異常的設備做後續處置及決策。</description>
+    </item>
+    
+    <item>
+      <title>任務管理</title>
+      <link>https://aiot-hwacom.github.io/smartq/blog/task-management/</link>
+      <pubDate>Thu, 16 Jul 2020 15:12:57 +0800</pubDate>
+      
+      <guid>https://aiot-hwacom.github.io/smartq/blog/task-management/</guid>
+      <description>以任務管理例行性作業 透過任務可以讓系統定期建立工作單，讓建立工作單的作業自動化。
+ 以任務快速建立工作單 建立任務後可以快速地透過任務樣板建立工作單，簡化以往重複且繁雜的建立流程，提升作業效率。</description>
+    </item>
+    
+    <item>
+      <title>工作單管理</title>
+      <link>https://aiot-hwacom.github.io/smartq/blog/workorder-management/</link>
+      <pubDate>Thu, 16 Jul 2020 15:12:57 +0800</pubDate>
+      
+      <guid>https://aiot-hwacom.github.io/smartq/blog/workorder-management/</guid>
+      <description>以任務建立工作單 使用者可以針對較常發生或例行性的設備維護工作建立任務，並透過任務來建立工作單。
+ 依任務定期建立保養單 在新增任務時可以彈性的設定保養單要重複執行的週期，系統就會依照使用者設定的時間定期的自動建立設備保養單。
+ 工作單審核、驗收、退回 工作單(故帳單、保養單)在建立後需經過設備主管的審核才得以執行，設備主管也可退回工作單。
+設備維護工作完成後，維護人員回報完成後，設備主管需驗收設備維護情況。
+ 設備異常自動建立故障單 使用者可以在系統設定當設備狀態符合一定條件時就自動建立故帳單</description>
+    </item>
+    
+    <item>
+      <title>快速上手</title>
+      <link>https://aiot-hwacom.github.io/smartq/blog/quick-start/</link>
+      <pubDate>Thu, 16 Jul 2020 15:12:57 +0800</pubDate>
+      
+      <guid>https://aiot-hwacom.github.io/smartq/blog/quick-start/</guid>
+      <description>設備的事情交由SmartQ管理，將剩餘的時間保留給自己。</description>
+    </item>
+    
+    <item>
+      <title>設備維護</title>
+      <link>https://aiot-hwacom.github.io/smartq/blog/equipment-maintain/</link>
+      <pubDate>Thu, 16 Jul 2020 15:12:57 +0800</pubDate>
+      
+      <guid>https://aiot-hwacom.github.io/smartq/blog/equipment-maintain/</guid>
+      <description>完整的維護生命週期 SmartQ 提供的功能完整的涵蓋整個設備維護生命週期，者使得設備維護流程在各模組的無縫整合下運行的更加順暢。
+ 維護完成提交驗收 設備維護人員到現場完成設備維護後，可透過系統回報工作完成，讓設備主管可以快速掌握現場工作情況。
+ 維護進度回報及照片上傳 設備維護人員可以隨時透過 SmartQ 回報工作進度，並且也可以查詢到該設備的歷史維護紀錄。</description>
+    </item>
+    
+  </channel>
+</rss>
